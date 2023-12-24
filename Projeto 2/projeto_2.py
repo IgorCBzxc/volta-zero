@@ -14,7 +14,7 @@ from sklearn import tree
 
 st.set_page_config(
     page_title="Projeto #02 | Previsão de renda",
-    page_icon="https://raw.githubusercontent.com/rhatiro/previsao-renda/main/ebac-course-utils/media/icon/favicon.ico",
+    page_icon="https://raw.githubusercontent.com/IgorCBzxc/volta-zero/main/Projeto%202/icone_pagina.ico",
     layout="wide",
     initial_sidebar_state="auto",
 )
@@ -22,7 +22,7 @@ st.set_page_config(
 
 st.sidebar.markdown('''
 <div style="text-align:center">
-<img src="https://raw.githubusercontent.com/rhatiro/previsao-renda/main/ebac-course-utils/media/logo/newebac_logo_black_half.png" alt="ebac-logo" width=50%>
+<img src="https://raw.githubusercontent.com/IgorCBzxc/volta-zero/main/Projeto%202/imagem_ebac.png" alt="ebac-logo" width=50%>
 </div>
 
 # **Profissão: Cientista de Dados**
