@@ -13,7 +13,7 @@ from sklearn import tree
 
 
 st.set_page_config(
-    page_title="Projeto #02 | Previsão de renda",
+    page_title="Projeto 02 - Ciência de Dados no mercado financeiro: Estimativa de renda para decisões de crédito mais precisas",
     page_icon="https://raw.githubusercontent.com/IgorCBzxc/volta-zero/main/Projeto%202/icone_pagina.ico",
     layout="wide",
     initial_sidebar_state="auto",
@@ -26,7 +26,7 @@ st.sidebar.markdown('''
 </div>
 
 # **Profissão: Cientista de Dados**
-### **Projeto #02** | Previsão de renda
+### Projeto 02 - Ciência de Dados no mercado financeiro: Estimativa de renda para decisões de crédito mais precisas
 
 **Por:** [Igor Coelho Barbosa](https://www.linkedin.com/in/igor-coelho-barbosa/)<br>
 **Data:** 24 de dezembro de 2023.<br>
@@ -36,7 +36,7 @@ st.sidebar.markdown('''
 ''', unsafe_allow_html=True)
 
 
-st.markdown('# <div style="text-align:center"> Previsão de renda </div>',
+st.markdown('# <div style="text-align:center"> Projeto 02 - Ciência de Dados no mercado financeiro: Estimativa de renda para decisões de crédito mais precisas </div>',
             unsafe_allow_html=True)
 
 
