@@ -31,7 +31,7 @@ def multiselect_filter(data: pd.DataFrame,
 def main():
     st.set_page_config(
         page_title="EBAC | Módulo 19 | Streamlit II | Exercício 1",
-        page_icon="https://raw.githubusercontent.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/main/Mo%CC%81dulo_19_-_Streamlit_II/Exerci%CC%81cio_1/img/telmarketing_icon.png",
+        page_icon="https://github.com/IgorCBzxc/volta-zero/blob/main/Streamlit%20II/telmarketing_icon.png",
         layout="wide",
         initial_sidebar_state="expanded",
     )
@@ -44,7 +44,7 @@ def main():
     st.markdown('''
     <div style="text-align:center">
         <a href="https://github.com/IgorCBzxc">
-            <img src="https://raw.githubusercontent.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/main/ebac-course-utils/media/logo/ebac_logo-data_science.png" alt="ebac_logo-data_science" width=100%>
+            <img src="https://github.com/IgorCBzxc/volta-zero/blob/main/Streamlit%20II/ebac_logo-data_science.png" alt="ebac_logo-data_science" width=100%>
         </a>
     </div> 
 
