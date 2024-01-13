@@ -7,6 +7,7 @@ import seaborn as sns
 from PIL import Image
 
 
+
 sns.set_theme(style='ticks',
               rc={'axes.spines.right': False,
                   'axes.spines.top': False})
@@ -36,15 +37,11 @@ def main():
         initial_sidebar_state="expanded",
     )
 
-    # SIDEBAR
-    image = Image.open(fp='Módulo_19_-_Streamlit_II/Exercício_1/img/Bank-Branding.jpg')
-    st.sidebar.image(image=image)
-
     # TÍTULO
     st.markdown('''
     <div style="text-align:center">
         <a href="https://github.com/IgorCBzxc">
-            <img src="https://github.com/IgorCBzxc/volta-zero/blob/main/Streamlit%20II/ebac_logo-data_science.png" alt="ebac_logo-data_science" width=100%>
+            <img src="https://raw.githubusercontent.com/IgorCBzxc/volta-zero/main/Streamlit%20II/ebac_logo-data_science.png" alt="ebac_logo-data_science" width=100%>
         </a>
     </div> 
 
@@ -153,30 +150,6 @@ def main():
     st.write('Quantidade de colunas:', bank.shape[1])
 
     st.markdown('---')
-
-    # PLOTS
-    fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(12, 4))
-    # Coluna 1
-    bank_raw_target_pct = bank_raw['y'].value_counts(
-        normalize=True).to_frame() * 100
-    bank_raw_target_pct = bank_raw_target_pct.sort_index()
-    sns.barplot(x=bank_raw_target_pct.index,
-                y='proportion',
-                data=bank_raw_target_pct,
-                ax=axes[0])
-    axes[0].bar_label(container=axes[0].containers[0])
-    axes[0].set_title(label='Dados brutos', fontweight='bold')
-    # Coluna 2
-    bank_target_pct = bank['y'].value_counts(normalize=True).to_frame() * 100
-    bank_target_pct = bank_target_pct.sort_index()
-    sns.barplot(x=bank_target_pct.index,
-                y='proportion',
-                data=bank_target_pct,
-                ax=axes[1])
-    axes[1].bar_label(container=axes[1].containers[0])
-    axes[1].set_title(label='Dados filtrados', fontweight='bold')
-    st.write('## Proporção de aceite')
-    st.pyplot(plt)
 
 
 if __name__ == '__main__':
