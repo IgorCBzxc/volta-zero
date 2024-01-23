@@ -1,55 +1,21 @@
-# Título do projeto
+# Analise de sucesso de venda
 
-Um simples resumo do uso/propósito do projeto.
+Este projeto tem como objetivo identificar quais clientes apresentam maior probabilidade de adquirir um produto bancário específico, por meio da análise de diversas características dos clientes, tais como idade, gênero, entre outros.
 
-## Descrição do projeto
-
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
 
 ## Utilização
 
-### Dependencias
+* Importe a base de dados dos clientes no formato "csv" ou "xls" para visualizar os dados na interface.
+* Utilize os filtros disponíveis no lado esquerdo da aplicação para personalizar a visualização dos dados conforme suas preferências.
+* Se desejar, você pode baixar os dados filtrados utilizando os botões de "download" disponíveis na aplicação.
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
-
-### Instalação
-
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
-
-### Executando o projeto
-
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
-
-## Ajuda
-
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
 
 ## Autores
 
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
+Igor Barbosa  
+[Igor Barbosa](https://www.linkedin.com/in/igor-coelho-barbosa/)
 
-## Histórico de versões.
-
-* 0.2
-	* Ajustes de diversos bugs e otimização
-* 0.1
-    * Primeira versão
-
-## Licença de uso
-
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
 
 ## Fontes de inspiração
 

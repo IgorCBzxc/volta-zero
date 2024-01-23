@@ -6,6 +6,7 @@ import seaborn           as sns
 import matplotlib.pyplot as plt
 from PIL                 import Image
 from io                  import BytesIO
+import requests
 
 # Set no tema do seaborn para melhorar o visual dos plots
 custom_params = {"axes.spines.right": False, "axes.spines.top": False}
@@ -57,8 +58,13 @@ def main():
     st.write('# Telemarketing analisys')
     st.markdown("---")
     
+
+    # Carregar a imagem a partir da URL
+    url = "https://raw.githubusercontent.com/IgorCBzxc/volta-zero/main/Streamlit%20III%20IV/Bank-Branding.jpg"
+    response = requests.get(url)
+    image = Image.open(BytesIO(response.content))
+
     # Apresenta a imagem na barra lateral da aplicação
-    image = Image.open("C:\Users\Igor\Documents\GitHub\volta-zero\Streamlit III IV\Bank-Branding.jpg")
     st.sidebar.image(image)
 
     # Botão para carregar arquivo na aplicação
