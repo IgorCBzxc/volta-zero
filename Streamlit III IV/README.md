@@ -10,11 +10,9 @@ Este projeto tem como objetivo identificar quais clientes apresentam maior proba
 * Se desejar, você pode baixar os dados filtrados utilizando os botões de "download" disponíveis na aplicação.
 
 
-## Autores
+## Autor
 
-
-Igor Barbosa  
-[Igor Barbosa](https://www.linkedin.com/in/igor-coelho-barbosa/)
+[Igor Coelho Barbosa](https://www.linkedin.com/in/igor-coelho-barbosa/)
 
 
 ## Fontes de inspiração
