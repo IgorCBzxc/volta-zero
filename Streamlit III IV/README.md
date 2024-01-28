@@ -11,6 +11,7 @@ Este projeto tem como objetivo identificar quais clientes apresentam maior proba
 
 
 ## Autor
+[streamlit-script_streamlit-2024-01-13-13-01-90.webm](https://github.com/IgorCBzxc/volta-zero/assets/74975493/427bbaed-c1ca-4d5f-b8e6-0c75e2236997)
 
 [Igor Coelho Barbosa](https://www.linkedin.com/in/igor-coelho-barbosa/)
 
