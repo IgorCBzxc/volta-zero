@@ -1,3 +1,7 @@
+# Preview do projeto
+
+[streamlit-script_streamlit-2024-01-13-13-01-90.webm](https://github.com/IgorCBzxc/volta-zero/assets/74975493/427bbaed-c1ca-4d5f-b8e6-0c75e2236997)
+
 # Analise de sucesso de venda
 
 Este projeto tem como objetivo identificar quais clientes apresentam maior probabilidade de adquirir um produto bancário específico, por meio da análise de diversas características dos clientes, tais como idade, gênero, entre outros.
@@ -11,7 +15,7 @@ Este projeto tem como objetivo identificar quais clientes apresentam maior proba
 
 
 ## Autor
-[streamlit-script_streamlit-2024-01-13-13-01-90.webm](https://github.com/IgorCBzxc/volta-zero/assets/74975493/427bbaed-c1ca-4d5f-b8e6-0c75e2236997)
+
 
 [Igor Coelho Barbosa](https://www.linkedin.com/in/igor-coelho-barbosa/)
 
