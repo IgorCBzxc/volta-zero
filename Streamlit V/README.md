@@ -1,6 +1,6 @@
 # Preview do projeto
 
-[streamlit-script_streamlit-2024-01-13-13-01-90.webm](https://github.com/IgorCBzxc/volta-zero/assets/74975493/427bbaed-c1ca-4d5f-b8e6-0c75e2236997)
+[Aplicação em uso](https://github.com/IgorCBzxc/volta-zero/blob/main/Streamlit%20V/streamlit-app_RFV-2024-03-03-19-03-80.mov)
 
 # Analise de sucesso de venda
 
