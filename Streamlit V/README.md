@@ -1,11 +1,7 @@
 # Preview do projeto
 
-[Aplicação em uso](https://github.com/IgorCBzxc/volta-zero/blob/main/Streamlit%20V/streamlit-app_RFV-2024-03-03-19-03-80.mov)
 
-# Analise de sucesso de venda
-
-Este projeto tem como objetivo identificar quais clientes apresentam maior probabilidade de adquirir um produto bancário específico, por meio da análise de diversas características dos clientes, tais como idade, gênero, entre outros.
-
+https://github.com/IgorCBzxc/volta-zero/assets/74975493/045d2c14-6eda-4a6f-a1c0-f20b268f99d1
 
 ## Utilização
 
@@ -20,12 +16,3 @@ Este projeto tem como objetivo identificar quais clientes apresentam maior proba
 [Igor Coelho Barbosa](https://www.linkedin.com/in/igor-coelho-barbosa/)
 
 
-## Fontes de inspiração
-
-Inspiração, trechos de códigos utilizados, etc.
-* [readme-template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
