@@ -1,7 +1,7 @@
 # Preview do projeto
 
 
-https://github.com/IgorCBzxc/volta-zero/assets/74975493/045d2c14-6eda-4a6f-a1c0-f20b268f99d1
+
 
 ## Utilização
 
